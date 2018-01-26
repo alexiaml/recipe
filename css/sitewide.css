@@ -28,9 +28,9 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size: 15px;
+	font-size: 16px;
 	line-height: 1.5em;
-	color: #222;
+	color: #111;
     background: #e5e6d4;
 }
 
@@ -44,8 +44,7 @@ body {
 	margin-right: auto;
 	margin-bottom: 4em;
 	margin-left: auto;
-	width: 65%;
-	max-width: 1200px;
+	width: 850px;
 	padding: 4em;
     background: #fff;
     border: 2px dashed #982723;
@@ -57,18 +56,20 @@ h1 {
     letter-spacing: 4px;
     color: #982723;
     text-shadow: -3px 2px 0px #000;
+    padding-top: 40px;
 }
 
 h2 {
     font-family: 'Oswald', sans-serif;
-    font-size: 1.63em; 
+    font-size: 1.60em; 
     color: #893a14;
 }
 
 h3{
     font-family: 'Oswald', sans-serif;
-    font-size: 1.43em;  
+    font-size: 1.40em;  
     color: #893a14;
+    padding-bottom: 40px;
 }
 
 h4 {
@@ -76,25 +77,34 @@ h4 {
     font-size: 1.25em;
     text-transform: uppercase;
     color: #893a14;
+    padding-top: 40px;
+}
+
+h5 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.25em;
+    text-transform: uppercase;
+    color: #893a14;
+    padding-top: 20px;
 }
 
 p{
-    font-size: 15px;
+    font-size: 16px;
 }
 
 strong{
-    font-size: 15px;
+    font-size: 16px;
     font-weight: bolder;
     color: #982723;
 }
 
 em{
-    font-size: 15px;
+    font-size: 16px;
     color: #982723;
 }
 
 li{
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .title{
@@ -107,20 +117,24 @@ li{
 .info{
     border: 2px dashed #982723;
     text-align: center;
-    color: #f7f7f7;
     background: #e4a594;
-    padding: .20em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
-.list{
+.ingredients{
     border: 2px dashed #982723;
-    color: #f7f7f7;
     background: #e4a594;
-    padding: .20em;
 }
 
-.box{
+.directions{
+    border: 2px dashed #982723;
+    background: #e4a594;
+}
+
+.header{
     border: 2px dashed #982723;
     background: #e4a594;
     height: 3em;
+    padding-bottom: 2em;
 }
