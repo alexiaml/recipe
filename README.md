@@ -28,6 +28,6 @@ This project includes elements from HTML5 Boilerplate (see css/vendor/h5bp_READM
 
 Alexia Lazcano
 
-WEB ADDRESS
+https://alexiaml.github.io/recipe/
 
 Farmer, Fannie Merritt. The Boston cooking-school cook book. Rev. ed.,, , Boston: Little, Brown, and company, 10.5479/sil.418003.39088007023013
